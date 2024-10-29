@@ -13,7 +13,7 @@ Currently i am a mentor at CultTech Accelerator and advisor to three start-ups w
 
 - 🌱 I’m currently learning Python
   
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI specialized programmers
   
 - 📫 How to reach me ...
   
