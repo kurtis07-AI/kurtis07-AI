@@ -3,9 +3,10 @@
 👋 Hey, I’m RT,
 
 i have over 20 years in the Investment Banking and Venture Capital.
-===================================================================
+
 
 Currently i am a mentor at CultTech Accelerator and advisor to three start-ups with the edge in WEB 3 and AI Technologies in Culture / Impact Industry
+======================================================================================================================================================
 
 - 👀 I’m interested in building AI based SaaS product, Filmmaking, Art, Fashion and Technologies
 ================================================================================================
