@@ -11,7 +11,7 @@ Currently i am a mentor at CultTech Accelerator and advisor to three start-ups w
 - 👀 I’m interested in building AI based SaaS product, Filmmaking, Art, Fashion and Technologies
 ================================================================================================
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently studying Python
   
 - 💞️ I’m looking to collaborate on AI specialized programmers
   
