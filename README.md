@@ -11,11 +11,11 @@ Currently i am a student at MS and a mentor at CultTech Accelerator and advisor 
 - 👀 I’m interested in building AI based SaaS product, Filmmaking, Art, Fashion and Technologies
 ================================================================================================
 
-- 🌱 I’m currently studying Python
+- 🌱 I’m currently undergo a study of AI Software Engineerer
   
-- 💞️ I’m looking to collaborate on AI specialized programmers
+- 💞️ I’m looking to collaborate with AI specialized programmers
   
-- 📫 How to reach me ...
+- 📫 How to reach me ... here
   
 - 😄 Pronouns: RT
   
