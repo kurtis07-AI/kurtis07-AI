@@ -4,12 +4,7 @@
 
 i have over 20 years in the Investment Banking and Venture Capital.
 
-
-### Currently i am a student at MS and a mentor at CultTech Accelerator and advisor to three start-ups with the edge in WEB 3 and AI Technologies in Culture / Impact Industry
-===================================================================================================================================
-
-- 👀 I’m interested in building AI based SaaS product, Filmmaking, Art, Fashion and Technologies
-================================================================================================
+### Currently I am:
 
 - 🌱 I’m currently undergo a study of AI Software Engineerer
   
